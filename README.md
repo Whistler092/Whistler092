@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Whistler's GitHub stats](https://github-readme-stats.vercel.app/api?username=whistler092&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=whistler092)](https://github.com/Whistler092?tab=repositories)
 
 
 - 🔭 I’m currently working on YuxiGlobal
