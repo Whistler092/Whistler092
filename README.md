@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on YuxiGlobal
+- 🔭 I’m currently working on EPAM Anywhere
 - 🌱 I’m currently learning Algorithms and Data Structures ✌
 - 💬 Ask me about C#
 - 📫 How to reach me: ramirobedoya.me
