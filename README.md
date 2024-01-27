@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on EPAM Anywhere
+- 🔭 I’m currently working on EPAM Colombia
 - 🌱 I’m currently learning Algorithms and Data Structures ✌
 - 💬 Ask me about C#
 - 📫 How to reach me: [ramirobedoya.me](https://ramirobedoya.me/)
-- ⚡ Fun fact: I love to grind the coffee and drink one after lunch.
+- ⚡ Fun fact: I love to grind coffee and drink one after lunch.
 
 
 
