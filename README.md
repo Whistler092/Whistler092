@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning to become a Solutions Architect and AI expert ✌
 - 💬 Ask me about C#
 - 📫 How to reach me: [ramirobedoya.me](https://ramirobedoya.me/)
-- ⚡ Fun fact:  I love grinding coffee and drinking one after lunch.
+- ⚡ Fun fact:  I love road bicycle
 
 
 
